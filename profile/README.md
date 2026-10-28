@@ -4,7 +4,7 @@ An experimental product lab from [Chert](https://www.trychert.com). We build gam
 
 | | |
 |---|---|
-| **autophobia** | A week-long horror story told over text. Six new friends. [autophobia.chertlabs.com](https://autophobia.chertlabs.com) |
+| **autophobia** | A week-long psychological horror over text and FaceTime. Six new friends, and you can call any of them. [autophobia.chertlabs.com](https://autophobia.chertlabs.com) |
 | **kyu** | Someone to text, honestly. A companion that lives in your messages. [kyu.chertlabs.com](https://kyu.chertlabs.com) |
 | **strangers** | Call a number on FaceTime and talk to a stranger. [strangers.chertlabs.com](https://strangers.chertlabs.com) |
 | **together** | Group FaceTime, streamed and in sync: camera grid, broadcast, watch party. Soon. |
